@@ -32,7 +32,7 @@ aPackageInfo = [
 		"samples/UsingCSVLib/writeNumbersTable.ring",
 		"samples/UsingCSVLib/writeSquaresTable.ring"
 		"samples/UsingCSVLib/BMO.ring",
-		"samples/UsingCSVLib/readBMOTable.ring",
+		"samples/UsingCSVLib/readBMOTable.ring"
 	],
 	:windowsfiles = 	[
 
